@@ -1,0 +1,14 @@
+�� sr java.util.ArrayListx����a� I sizexp   w   sr 	user.User�ԡHG�
+I ageD balanceL baskett Ljava/util/List;L boughtProductsHistoryq ~ L emailt Ljava/lang/String;L lastnameq ~ L nameq ~ L passwordq ~ L phoneNumberq ~ L userTypet Luser/UserType;xr common.BaseEntityQ��{�P L idt Ljava/lang/Object;xpsr java.util.UUID����m�/ J leastSigBitsJ mostSigBitsxp�	z�����"�K�+O�   {@�@     sq ~      w    xsq ~      w    xt 123q ~
+q ~
+q ~
+q ~
+~r
+user.UserType          xr java.lang.Enum          xpt ADMINsq ~ sq ~ 	�xl�(!U��x]�N           sq ~      w    xsq ~      w    xt 1234567t 12t 12t 12t 12~q ~ t USERsq ~ sq ~ 	��A��C��d)����Ba           sq ~      w    xsq ~      w    xt 1246789t 1t 1t 1t 1q ~ sq ~ sq ~ 	����ʧ���Ї-:E�           sq ~      w    xsq ~      w    xt 	123456789t 1t 1t 1t 1q ~ sq ~ sq ~ 	�ug���Z�|�,Mg           sq ~      w    xsq ~      w    xt adet 1t 1t 1t 1q ~ sq ~ sq ~ 	�%����s~��x�H�           sq ~      w    xsq ~      w    xt asadt 1t 1t 1t 1q ~ sq ~ sq ~ 	�I� w�4`��L,           sq ~      w    xsq ~      w    xt 1asdt 1t 1t 1t 1q ~ sq ~ sq ~ 	�w�q�����N��L�           sq ~      w    xsq ~      w    xt rtyt 1t 1t 1t 1q ~ sq ~ sq ~ 	���+�eeǟQ��y�C�           sq ~      w    xsq ~      w    xt asfdgt 1t 1t 1t 1q ~ sq ~ sq ~ 	���
+-�' r��Lr           sq ~      w    xsq ~      w    xt 112st 1t 1t 1t 1q ~ sq ~ sq ~ 	�Y�B�� =@�ȓ-M�           sq ~      w    xsq ~      w    xt sfwet 1t 1t 1t 1q ~ sq ~ sq ~ 	�lU-���������0Fv   A.~@    sq ~     w   sr product.Product�ZJ:PŢ D priceL
+categories_idt Ljava/util/UUID;L descriptionq ~ L modelq ~ L nameq ~ L statust Lproduct/Status;xq ~ sq ~ 	�8����n�
+���U�ND@y      sq ~ 	��\��#/�'�`I/t Zor telefont A53t Sumsung~r product.Status          xq ~ t STARTsq ~ qsq ~ 	�8����n�
+���U�ND@y      sq ~ 	��\��#/�'�`I/t Zor telefont A53t Sumsungq ~ {sq ~ qsq ~ 	�8����n�
+���U�ND@y      sq ~ 	��\��#/�'�`I/t Zor telefont A53t Sumsungq ~ {xsq ~     w   sq ~ qsq ~ 	�8����n�
+���U�ND@y      sq ~ 	��\��#/�'�`I/t Zor telefont A53t Sumsungq ~ {sq ~ qsq ~ 	�8����n�
+���U�ND@y      sq ~ 	��\��#/�'�`I/t Zor telefont A53t Sumsung~q ~ zt 	DELIVEREDxt 1t 1t 1t 1t 1q ~ x

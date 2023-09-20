@@ -1,0 +1,3 @@
+�� sr java.util.ArrayListx����a� I sizexp   w   sr product.Product�ZJ:PŢ D priceL
+categories_idt Ljava/util/UUID;L descriptiont Ljava/lang/String;L modelq ~ L nameq ~ L statust Lproduct/Status;xr common.BaseEntityQ��{�P L idt Ljava/lang/Object;xpsr java.util.UUID����m�/ J leastSigBitsJ mostSigBitsxp�8����n�
+���U�ND@y      sq ~ 	��\��#/�'�`I/t Zor telefont A53t Sumsung~r product.Status          xr java.lang.Enum          xpt STARTsq ~ sq ~ 	�z�?UN+��OO>rM<@�@     sq ~ 	������z��F@�t zort 12ast sumsungq ~ x
